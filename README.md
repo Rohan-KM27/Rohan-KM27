@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Rohan-KM27
+- 👀 I’m interested in Artificiala intelligence and machine learning.
+- 🌱 I’m currently learning ML and Python core.
+- 💞️ I’m looking to collaborate on other ML projects.
+- I want to explore and innovate stuff in the field of AI & ML.
