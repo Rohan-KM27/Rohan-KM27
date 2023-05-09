@@ -7,19 +7,27 @@ I'm interested in Artificial Intelligence and Machine Learning, and I'm currentl
 
 Skills
 
-Python
-Machine Learning
-Data Analysis
-Artificial Intelligence
-C
-C++
-DBMS
-JAVA
+-Python
+
+-Machine Learning
+
+-Data Analysis
+
+-Artificial Intelligence
+
+-C
+
+-C++
+
+-DBMS
+
+-JAVA
 
 
 
 Projects
 Traffic Management System - A DBMS project that aims to design and implement a traffic management system using Django and MySQL.
+
 Contact Me
 
 If you're interested in collaborating or just want to say hi, feel free to reach out to me on LinkedIn or GitHub. I'm always happy to connect with like-minded individuals who are passionate about AI and ML.
